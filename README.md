@@ -1,2 +1,2 @@
 # palebluedotsociety.github.io
-This is our website. 
+This is our website: http://palebluedot.international/
