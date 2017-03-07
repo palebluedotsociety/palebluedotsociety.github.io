@@ -54,6 +54,8 @@ attempt to realize these goals.
 ## Background Reading
 
 * [*Agrarian Justice* - Thomas Paine](paine.agrarian-justice.html)
+* [*Basic Income: A Radical Proposal for a Free Society and a Sane Economy* - 
+Philippe Van Parijs and Yannick Vanderborght](http://a.co/emDJ0Ni)
 
 ## Continue The Conversation
 
