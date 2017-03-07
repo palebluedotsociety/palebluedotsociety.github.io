@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Pale Blue Dot Society
+title: The Pale Blue Dot Society ●
 ---
 
 ## Goal
