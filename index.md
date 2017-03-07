@@ -57,7 +57,8 @@ attempt to realize these goals.
 
 ## Continue The Conversation
 
-Email <span class="fixed">society@palebluedot.international</span> or twitter <span class="fixed">@palebluedotsoc</span>.
+Email [society@palebluedot.international](mailto:society@palebluedot.international)
+or twitter [@palebluedotsoc](https://twitter.com/palebluedotsoc).
 
 ## Inspiration: Carl Sagan speech at Cornell University, October 13, 1994
 
