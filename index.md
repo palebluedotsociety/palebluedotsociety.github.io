@@ -53,7 +53,7 @@ attempt to realize these goals.
 
 ## Background Reading
 
-* [Agrarian Justice - Thomas Paine](paine.agrarian-justice.html)
+* [*Agrarian Justice* - Thomas Paine](paine.agrarian-justice.html)
 
 ## Continue The Conversation
 
