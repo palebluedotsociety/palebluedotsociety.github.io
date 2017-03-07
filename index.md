@@ -42,7 +42,7 @@ entire fields.
 
 ## Who Will Pay For It?
 
-We will. Our's will be the generation that provides this gift to all
+We will. *Our's* will be the generation that provides this gift to all
 of humanity's descendants.
 
 ## What Next?
