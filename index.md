@@ -5,8 +5,8 @@ title: The Pale Blue Dot Society ●
 
 ## Goal
 
-Nobody on Earth lacks the basics: food, water, clothing, shelter,
-medical care, and security.
+Nobody on Earth lacks the basics: *food*, *water*, *clothing*, *shelter*,
+*medical care*, and *security*.
 
 ## Why Now?
 
